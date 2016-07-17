@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://efeefe.github.io
+title: efeefe
+tagline: Blogue do efeefe
+description: Anotações sobre a vida, o mundo e as coisas.
+paginate: 5
